@@ -37,7 +37,7 @@ public class ActivityRepositoryAdapter implements ActivityRepositoryPort {
     }
 
     @Override
-    public Activity findByName(String name) {
-        return activityRepository.findByName(name);
+    public Activity findByCourseId(UUID courseId) {
+        return activityRepository.findByCourseId(courseId);
     }
 }

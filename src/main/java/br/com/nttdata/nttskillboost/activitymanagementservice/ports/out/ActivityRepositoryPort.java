@@ -9,5 +9,5 @@ public interface ActivityRepositoryPort {
     Activity save(Activity activity);
     Activity findById(UUID id);
     List<Activity> findAll();
-    Activity findByName(String name);
+    Activity findByCourseId(UUID courseId);
 }

@@ -12,6 +12,5 @@ CREATE TABLE tb_activity (
     create_by varchar(255) NOT NULL DEFAULT 'system_user',
     created_date timestamp DEFAULT CURRENT_DATE,
     last_modified_by varchar(255),
-    last_modified_date timestamp DEFAULT CURRENT_DATE,
-    FOREIGN KEY (employee_knowledge_advisor_id) REFERENCES tb_employee_knowledge_advisor(id) ON DELETE CASCADE
+    last_modified_date timestamp DEFAULT CURRENT_DATE
 );

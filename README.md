@@ -23,8 +23,8 @@ versão com application properties sem config server
 
 Isso garante baixo acoplamento e alta testabilidade.
 
-docker exec -it activity-service-postgres psql -U postgres
-CREATE DATABASE "nkbost-activity-db";
+docker exec -it activity-management-service-postgres psql -U postgres
+CREATE DATABASE "nkbost-activity-management-db";
 
 \l==
 Aqui estão alguns comandos úteis para trabalhar com o PostgreSQL no cliente psql:

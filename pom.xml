@@ -11,9 +11,9 @@
     <groupId>br.com.nttdata.nttskillboost</groupId>
     <artifactId>activitymanagementservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>activity-service</name>
-    <description>Course Service</description>
-    <url>https://github.com/nttskillboost/courseservice</url>
+    <name>activity-management-service</name>
+    <description>Activity Management Service</description>
+    <url>https://github.com/nttskillboost/activitymanagementservice</url>
     <licenses>
         <license>
             <name>Apache License Version 2.0</name>
@@ -27,10 +27,10 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/NTTSkillBoost/courseservice.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:NTTSkillBoost/ecourseservice.git</developerConnection>
+        <connection>scm:git:git://github.com/NTTSkillBoost/activitymanagementservice.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:NTTSkillBoost/activitymanagementservice.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/NTTSkillBoost/courseservice</url>
+        <url>https://github.com/NTTSkillBoost/activitymanagementservice</url>
     </scm>
     <properties>
         <java.version>21</java.version>

@@ -8,5 +8,5 @@ import java.util.UUID;
 
 @Repository
 public interface ActivityJpaRepository extends JpaRepository<Activity, UUID> {
-    Activity findByName(String name);
+    Activity findByCourseId(UUID courseId);
 }
