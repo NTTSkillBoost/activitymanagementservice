@@ -1,6 +1,6 @@
 -- Criação da tb_activity
 CREATE TABLE tb_activity (
-    id UUID DEFAULT uuid_generate_v4() NOT NULL,
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4() NOT NULL,
     course_id UUID NOT NULL,
     description VARCHAR(500) NOT NULL,
     point int NOT NULL,

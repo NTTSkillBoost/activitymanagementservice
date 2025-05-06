@@ -12,6 +12,7 @@ import java.util.UUID;
 @Component
 public class EmployeeClient {
 
+    public static final String EMPLOYEE_TYPE_STUDENT = "STUDENT";
     private final WebClient webClient;
 
     public EmployeeClient(WebClient.Builder builder) {
@@ -25,7 +26,7 @@ public class EmployeeClient {
     public boolean existsById(UUID employeeId) {
         try {
             webClient.get()
-                    .uri("/{id}", employeeId)
+                    .uri("/{id}/person-type/{student}", employeeId, EMPLOYEE_TYPE_STUDENT)
                     .retrieve()
                     .toBodilessEntity()
                     .block();
