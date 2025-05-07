@@ -40,7 +40,7 @@ public class ActivityEmployeeController {
     @CircuitBreaker(name = "activityEmployeeService", fallbackMethod = "fallbackCreate")
     @Bulkhead(name = "activityEmployeeService")
     @PostMapping
-    public ResponseEntity<ActivityEmployeeResponse> create(@Valid @RequestBody ActivityEmployeeRequest dto) {
+    public ResponseEntity<ActivityEmployeeResponse> create(@Valid @RequestBody ActivityEmployeeRequest dto) throws Exception {
         ActivityEmployee activityEmployee = activityEmployeeMapper.toDomain(dto);
         ActivityEmployee created = createActivityEmployeeService.create(activityEmployee);
         if (created == null) {
