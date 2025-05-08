@@ -1,7 +1,10 @@
 package br.com.nttdata.nttskillboost.activitymanagementservice.adapters.gateway;
 
+import com.netflix.appinfo.InstanceInfo;
+import com.netflix.discovery.EurekaClient;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import io.github.resilience4j.retry.annotation.Retry;
+import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
 import org.springframework.web.reactive.function.client.WebClientResponseException;
@@ -9,20 +12,25 @@ import org.springframework.web.reactive.function.client.WebClientResponseExcepti
 import java.util.UUID;
 
 @Component
+@RequiredArgsConstructor
 public class EnrollmentClient {
 
-    private final WebClient webClient;
-
-    public EnrollmentClient(WebClient.Builder builder) {
-        //this.webClient = builder.baseUrl("http://enrollment-service/api/v1/enrollments").build();
-        this.webClient = builder.baseUrl("http://localhost:8885/api/v1/enrollments").build();
-    }
-
+    private final WebClient.Builder webClientBuilder;
+    private final EurekaClient eurekaClient;
+    
     @Retry(name = "enrollmentService")
     @CircuitBreaker(name = "enrollmentService", fallbackMethod = "fallbackEnrollmentCheck")
     public boolean isStudentEnrolled(UUID studentId, UUID courseId) {
         try {
-            webClient.get()
+
+            InstanceInfo instance = eurekaClient.getNextServerFromEureka("ENROLLMENT-SERVICE", false);
+            String baseUrl = instance.getHomePageUrl(); // Exemplo: http://localhost:8881/
+
+            WebClient clientWebClient = webClientBuilder
+                    .baseUrl(baseUrl + "api/v1/enrollments")
+                    .build();
+
+            clientWebClient.get()
                     .uri(uriBuilder -> uriBuilder
                             .path("/exists")
                             .queryParam("studentId", studentId)
