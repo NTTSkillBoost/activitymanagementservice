@@ -69,3 +69,313 @@
 2025-05-08 10:41:11 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
 2025-05-08 10:41:12 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
 2025-05-08 10:41:12 [main] INFO  b.c.n.n.a.RunApplication - Started RunApplication in 26.33 seconds (process running for 27.465)
+2025-05-08 10:46:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 10:51:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 10:56:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 11:01:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 11:06:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 11:11:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 11:16:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 11:21:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 11:26:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 11:31:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 11:36:09 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 13:21:16 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h42m16s757ms976µs700ns).
+2025-05-08 13:22:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 13:27:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 13:32:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 13:37:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 13:42:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 13:47:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 13:52:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 13:57:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:02:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:07:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:12:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:17:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:22:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:27:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:32:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:37:56 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:45:47 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m268ms559µs800ns).
+2025-05-08 14:48:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:53:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 14:58:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:03:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:08:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:13:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:18:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:23:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:28:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:33:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:38:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:43:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:48:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:53:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 15:58:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 16:03:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 16:06:32 [http-nio-8883-exec-3] INFO  o.a.c.c.C.[.[localhost].[/api] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-08 16:06:32 [http-nio-8883-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-08 16:06:33 [http-nio-8883-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 215 ms
+2025-05-08 16:08:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 16:12:53 [http-nio-8883-exec-7] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'activityEmployeeService' recorded an exception as failure:
+jakarta.persistence.EntityNotFoundException: Funcionário com ID 51768318-8707-4098-ac12-23f5b8dd48a8 não encontrado
+	at br.com.nttdata.nttskillboost.activitymanagementservice.adapters.repository.ActivityRepositoryAdapter.findById(ActivityRepositoryAdapter.java:30)
+	at br.com.nttdata.nttskillboost.activitymanagementservice.application.CreateActivityEmployeeService.create(CreateActivityEmployeeService.java:26)
+	at br.com.nttdata.nttskillboost.activitymanagementservice.adapters.api.controller.ActivityEmployeeController.create(ActivityEmployeeController.java:45)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:359)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at io.github.resilience4j.bulkhead.Bulkhead.lambda$decorateCheckedSupplier$0(Bulkhead.java:70)
+	at io.github.resilience4j.bulkhead.Bulkhead.executeCheckedSupplier(Bulkhead.java:471)
+	at io.github.resilience4j.spring6.bulkhead.configure.BulkheadAspect.handleJoinPoint(BulkheadAspect.java:194)
+	at io.github.resilience4j.spring6.bulkhead.configure.BulkheadAspect.proceed(BulkheadAspect.java:147)
+	at io.github.resilience4j.spring6.bulkhead.configure.BulkheadAspect.lambda$bulkheadAroundAdvice$1(BulkheadAspect.java:120)
+	at io.github.resilience4j.spring6.fallback.FallbackExecutor.execute(FallbackExecutor.java:37)
+	at io.github.resilience4j.spring6.bulkhead.configure.BulkheadAspect.bulkheadAroundAdvice(BulkheadAspect.java:121)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:642)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:632)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at io.github.resilience4j.circuitbreaker.CircuitBreaker.lambda$decorateCheckedSupplier$0(CircuitBreaker.java:71)
+	at io.github.resilience4j.circuitbreaker.CircuitBreaker.executeCheckedSupplier(CircuitBreaker.java:739)
+	at io.github.resilience4j.spring6.circuitbreaker.configure.CircuitBreakerAspect.defaultHandling(CircuitBreakerAspect.java:179)
+	at io.github.resilience4j.spring6.circuitbreaker.configure.CircuitBreakerAspect.proceed(CircuitBreakerAspect.java:126)
+	at io.github.resilience4j.spring6.circuitbreaker.configure.CircuitBreakerAspect.lambda$circuitBreakerAroundAdvice$0(CircuitBreakerAspect.java:108)
+	at io.github.resilience4j.spring6.fallback.DefaultFallbackDecorator.lambda$decorate$0(DefaultFallbackDecorator.java:36)
+	at io.github.resilience4j.spring6.fallback.FallbackExecutor.execute(FallbackExecutor.java:39)
+	at io.github.resilience4j.spring6.circuitbreaker.configure.CircuitBreakerAspect.circuitBreakerAroundAdvice(CircuitBreakerAspect.java:109)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:642)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:632)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at io.github.resilience4j.retry.Retry.lambda$decorateCheckedSupplier$1(Retry.java:135)
+	at io.github.resilience4j.retry.Retry.executeCheckedSupplier(Retry.java:350)
+	at io.github.resilience4j.spring6.retry.configure.RetryAspect.handleDefaultJoinPoint(RetryAspect.java:175)
+	at io.github.resilience4j.spring6.retry.configure.RetryAspect.proceed(RetryAspect.java:132)
+	at io.github.resilience4j.spring6.retry.configure.RetryAspect.lambda$retryAroundAdvice$0(RetryAspect.java:116)
+	at io.github.resilience4j.spring6.fallback.DefaultFallbackDecorator.lambda$decorate$0(DefaultFallbackDecorator.java:36)
+	at io.github.resilience4j.spring6.fallback.FallbackExecutor.execute(FallbackExecutor.java:39)
+	at io.github.resilience4j.spring6.retry.configure.RetryAspect.retryAroundAdvice(RetryAspect.java:117)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:642)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:632)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:727)
+	at br.com.nttdata.nttskillboost.activitymanagementservice.adapters.api.controller.ActivityEmployeeController$$SpringCGLIB$$0.create(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:258)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:191)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:114)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-08 16:12:53 [http-nio-8883-exec-7] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event ERROR published: 2025-05-08T16:12:53.460651600-03:00[America/Sao_Paulo]: CircuitBreaker 'activityEmployeeService' recorded an error: 'jakarta.persistence.EntityNotFoundException: Funcionário com ID 51768318-8707-4098-ac12-23f5b8dd48a8 não encontrado'. Elapsed time: 74 ms
+2025-05-08 16:13:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:04:19 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:04:19 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m30s860ms281µs400ns).
+2025-05-08 17:04:27 [http-nio-8883-exec-9] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'courseService' succeeded:
+2025-05-08 17:04:27 [http-nio-8883-exec-9] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event SUCCESS published: 2025-05-08T17:04:27.746113200-03:00[America/Sao_Paulo]: CircuitBreaker 'courseService' recorded a successful call. Elapsed time: 3501 ms
+2025-05-08 17:04:28 [http-nio-8883-exec-9] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'activityService' succeeded:
+2025-05-08 17:04:28 [http-nio-8883-exec-9] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event SUCCESS published: 2025-05-08T17:04:28.273083200-03:00[America/Sao_Paulo]: CircuitBreaker 'activityService' recorded a successful call. Elapsed time: 2965989 ms
+2025-05-08 17:05:05 [http-nio-8883-exec-3] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'activityService' recorded an exception as failure:
+java.lang.IllegalArgumentException: No constant with text QUIZ3 found
+	at br.com.nttdata.nttskillboost.activitymanagementservice.domain.entity.ActivityType.getActivityType(ActivityType.java:24)
+	at br.com.nttdata.nttskillboost.activitymanagementservice.adapters.api.model.mapper.ActivityMapper.toDomain(ActivityMapper.java:19)
+	at br.com.nttdata.nttskillboost.activitymanagementservice.adapters.api.controller.ActivityController.create(ActivityController.java:50)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:359)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at io.github.resilience4j.bulkhead.Bulkhead.lambda$decorateCheckedSupplier$0(Bulkhead.java:70)
+	at io.github.resilience4j.bulkhead.Bulkhead.executeCheckedSupplier(Bulkhead.java:471)
+	at io.github.resilience4j.spring6.bulkhead.configure.BulkheadAspect.handleJoinPoint(BulkheadAspect.java:194)
+	at io.github.resilience4j.spring6.bulkhead.configure.BulkheadAspect.proceed(BulkheadAspect.java:147)
+	at io.github.resilience4j.spring6.bulkhead.configure.BulkheadAspect.lambda$bulkheadAroundAdvice$1(BulkheadAspect.java:120)
+	at io.github.resilience4j.spring6.fallback.FallbackExecutor.execute(FallbackExecutor.java:37)
+	at io.github.resilience4j.spring6.bulkhead.configure.BulkheadAspect.bulkheadAroundAdvice(BulkheadAspect.java:121)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:642)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:632)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at io.github.resilience4j.circuitbreaker.CircuitBreaker.lambda$decorateCheckedSupplier$0(CircuitBreaker.java:71)
+	at io.github.resilience4j.circuitbreaker.CircuitBreaker.executeCheckedSupplier(CircuitBreaker.java:739)
+	at io.github.resilience4j.spring6.circuitbreaker.configure.CircuitBreakerAspect.defaultHandling(CircuitBreakerAspect.java:179)
+	at io.github.resilience4j.spring6.circuitbreaker.configure.CircuitBreakerAspect.proceed(CircuitBreakerAspect.java:126)
+	at io.github.resilience4j.spring6.circuitbreaker.configure.CircuitBreakerAspect.lambda$circuitBreakerAroundAdvice$0(CircuitBreakerAspect.java:108)
+	at io.github.resilience4j.spring6.fallback.DefaultFallbackDecorator.lambda$decorate$0(DefaultFallbackDecorator.java:36)
+	at io.github.resilience4j.spring6.fallback.FallbackExecutor.execute(FallbackExecutor.java:39)
+	at io.github.resilience4j.spring6.circuitbreaker.configure.CircuitBreakerAspect.circuitBreakerAroundAdvice(CircuitBreakerAspect.java:109)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:642)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:632)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at io.github.resilience4j.retry.Retry.lambda$decorateCheckedSupplier$1(Retry.java:135)
+	at io.github.resilience4j.retry.Retry.executeCheckedSupplier(Retry.java:350)
+	at io.github.resilience4j.spring6.retry.configure.RetryAspect.handleDefaultJoinPoint(RetryAspect.java:175)
+	at io.github.resilience4j.spring6.retry.configure.RetryAspect.proceed(RetryAspect.java:132)
+	at io.github.resilience4j.spring6.retry.configure.RetryAspect.lambda$retryAroundAdvice$0(RetryAspect.java:116)
+	at io.github.resilience4j.spring6.fallback.DefaultFallbackDecorator.lambda$decorate$0(DefaultFallbackDecorator.java:36)
+	at io.github.resilience4j.spring6.fallback.FallbackExecutor.execute(FallbackExecutor.java:39)
+	at io.github.resilience4j.spring6.retry.configure.RetryAspect.retryAroundAdvice(RetryAspect.java:117)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:642)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:632)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:727)
+	at br.com.nttdata.nttskillboost.activitymanagementservice.adapters.api.controller.ActivityController$$SpringCGLIB$$0.create(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:258)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:191)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:114)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-05-08 17:05:05 [http-nio-8883-exec-3] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event ERROR published: 2025-05-08T17:05:05.757590-03:00[America/Sao_Paulo]: CircuitBreaker 'activityService' recorded an error: 'java.lang.IllegalArgumentException: No constant with text QUIZ3 found'. Elapsed time: 2482 ms
+2025-05-08 17:05:25 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'courseService' succeeded:
+2025-05-08 17:05:25 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event SUCCESS published: 2025-05-08T17:05:25.991944-03:00[America/Sao_Paulo]: CircuitBreaker 'courseService' recorded a successful call. Elapsed time: 2133 ms
+2025-05-08 17:05:25 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'activityService' succeeded:
+2025-05-08 17:05:26 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event SUCCESS published: 2025-05-08T17:05:26.000932-03:00[America/Sao_Paulo]: CircuitBreaker 'activityService' recorded a successful call. Elapsed time: 5700 ms
+2025-05-08 17:07:43 [http-nio-8883-exec-2] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'courseService' succeeded:
+2025-05-08 17:07:43 [http-nio-8883-exec-2] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event SUCCESS published: 2025-05-08T17:07:43.385486100-03:00[America/Sao_Paulo]: CircuitBreaker 'courseService' recorded a successful call. Elapsed time: 3154 ms
+2025-05-08 17:07:43 [http-nio-8883-exec-2] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'activityService' succeeded:
+2025-05-08 17:07:43 [http-nio-8883-exec-2] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event SUCCESS published: 2025-05-08T17:07:43.401780200-03:00[America/Sao_Paulo]: CircuitBreaker 'activityService' recorded a successful call. Elapsed time: 6896 ms
+2025-05-08 17:09:19 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:14:19 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:17:42 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'enrollmentService' succeeded:
+2025-05-08 17:17:42 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event SUCCESS published: 2025-05-08T17:17:42.003403-03:00[America/Sao_Paulo]: CircuitBreaker 'enrollmentService' recorded a successful call. Elapsed time: 5651 ms
+2025-05-08 17:17:55 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'employeeService' succeeded:
+2025-05-08 17:17:55 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event SUCCESS published: 2025-05-08T17:17:55.435371300-03:00[America/Sao_Paulo]: CircuitBreaker 'employeeService' recorded a successful call. Elapsed time: 10457 ms
+2025-05-08 17:17:57 [http-nio-8883-exec-5] INFO  o.s.a.r.c.CachingConnectionFactory - Attempting to connect to: [localhost:5672]
+2025-05-08 17:17:57 [http-nio-8883-exec-5] INFO  o.s.a.r.c.CachingConnectionFactory - Created new connection: rabbitConnectionFactory#2aa28a01:0/SimpleConnection@4130ce34 [delegate=amqp://guest@127.0.0.1:5672/, localPort=56302]
+2025-05-08 17:18:00 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - CircuitBreaker 'activityEmployeeService' succeeded:
+2025-05-08 17:18:00 [http-nio-8883-exec-5] DEBUG i.g.r.c.i.CircuitBreakerStateMachine - Event SUCCESS published: 2025-05-08T17:18:00.473762200-03:00[America/Sao_Paulo]: CircuitBreaker 'activityEmployeeService' recorded a successful call. Elapsed time: 31099 ms
+2025-05-08 17:19:20 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:24:20 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:33:43 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m53s111ms615µs500ns).
+2025-05-08 17:34:43 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:39:43 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:44:43 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:49:43 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:54:43 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 17:59:43 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 18:04:08 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m54s971ms693µs400ns).
+2025-05-08 18:06:08 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 19:08:46 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h1m37s349ms561µs300ns).
+2025-05-08 19:12:15 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2025-05-08 19:17:15 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
